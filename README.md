@@ -14,10 +14,6 @@ A Django-based web application for banking services with chatbot functionality.
 - MySQL
 - HTML, CSS
 
-## Run Project
-`bash`
-python manage.py runserver
-
 ## Screenshots
 ![Home Page](home.png)
 
@@ -28,3 +24,7 @@ python manage.py runserver
 ![Admin Login Screen](admin_login.png)
 
 ![Train Machine Learning Algorithms](train_ml.png)
+
+## Run Project
+```bash
+python manage.py runserver
