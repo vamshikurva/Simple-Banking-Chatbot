@@ -1,0 +1,6 @@
+numpy
+pandas
+django
+scikit-learn
+PyMySQL
+nltk
